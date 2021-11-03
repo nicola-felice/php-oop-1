@@ -8,7 +8,7 @@
 //    => all'interno della classe è definito almeno un metodo
 // - vengono istanziati almeno due oggetti ‘Movie’ e stampati a schermo i valori delle relative proprietà
 
-require __DIR__ . '/movie.php';
+require __DIR__ . '/classes/movie.php';
 
 $filmsArr = [];
 
